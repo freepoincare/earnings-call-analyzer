@@ -1,6 +1,6 @@
 # Earnings Call Analyzer
 
-A reusable Claude Code custom command for analyzing earnings call transcripts.
+A reusable Claude Code custom command for analyzing earnings call transcripts and generate `.md` report in Korean language.
 
 ## Requirements
 
@@ -31,6 +31,8 @@ Run:
 ```text
 /earnings-call-analyzer @examples/tsmc-2026-q1.txt
 ```
+
+The output report is saved in `/reports/` folder.
 
 ## Output
 
