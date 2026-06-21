@@ -11,7 +11,7 @@ A reusable Claude Code custom command for analyzing earnings call transcripts an
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOURNAME/earnings-call-analyzer.git
+git clone https://github.com/freepoincare/earnings-call-analyzer.git
 ```
 
 Enter the folder:
